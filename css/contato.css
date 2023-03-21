@@ -15,6 +15,10 @@ form fieldset label{
     display:block
 }
 
+.invalid {
+    border: 2px solid red;
+}
+
 form fieldset input, textarea{
     width: 100%;
 
